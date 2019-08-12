@@ -1,0 +1,191 @@
+[
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1551208649351,
+            "changeTime": 1551208649351,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1551220955709,
+            "changeTime": 1551220955709,
+            "isWorkspace": false,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1551212520875,
+            "changeTime": 1551208646237,
+            "contentHash": "7519d87ba8087047829ba514f9315b16468633cb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1551115143148,
+            "changeTime": 1551115143148,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1551208649351,
+            "changeTime": 1551208649351,
+            "contentHash": "35ec1be7bf9e6b5fed770828cc24c81878424a99",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/classes/CaseController.cls",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/classes/CaseController.cls",
+            "isDirectory": false,
+            "size": 554,
+            "modifiedTime": 1551221088383,
+            "changeTime": 1551212213871,
+            "contentHash": "3ed1320b8048cbf900906b84c3a2a29332561ebb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/classes/CaseController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/classes/CaseController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1551206893132,
+            "changeTime": 1551208646240,
+            "contentHash": "0c7b43c85b001fa229ccd2dbb0a5168977056935",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1551217262056,
+            "changeTime": 1551118838416,
+            "contentHash": "76a202496c77b044808ff737e1bfd003cfde8306",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc/caseAssigner",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc/caseAssigner",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1551212370063,
+            "changeTime": 1551118838417,
+            "contentHash": "6f04f0addcb747a21f1cc89f1a78e8f8bb21072b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc/caseAssigner/caseAssigner.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc/caseAssigner/caseAssigner.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 748,
+            "modifiedTime": 1551221629351,
+            "changeTime": 1551221629351,
+            "isWorkspace": false,
+            "contentHash": "4709b9f822f339fe92db03037b3e27071d9d9da7"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc/caseAssigner/caseAssigner.js",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc/caseAssigner/caseAssigner.js",
+            "isDirectory": false,
+            "size": 476,
+            "modifiedTime": 1551220850256,
+            "changeTime": 1551220850256,
+            "contentHash": "6a806c8fe21cfcff1420cf4682f5aafea7ac02b0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc/caseAssigner/caseAssigner.js-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner/force-app/main/default/lwc/caseAssigner/caseAssigner.js-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1551218173864,
+            "changeTime": 1551218173864,
+            "contentHash": "7331f340f54397e354d0fa04bbce46bd4b101926",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/caseAssigner",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/caseAssigner",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1551220950654,
+            "changeTime": 1551220950654,
+            "isWorkspace": true,
+            "contentHash": "b376b4369923026a35856a5bdc56efccbe45e902"
+        }
+    ]
+]
